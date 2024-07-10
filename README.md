@@ -120,47 +120,8 @@ EXIT;
    define('DB_HOST', 'localhost');
    ```
 
-### 9. Finalize the WordPress Installation
+### 9. Finalise the WordPress Installation
 1. Open your browser and navigate to your EC2 instance's public IP.
 2. Follow the WordPress setup wizard to complete the installation.
 
-## Pushing to GitHub
 
-### 1. Initialise Git Repository
-1. Connect to your EC2 instance and navigate to your WordPress directory:
-   ```bash
-   cd /var/www/html
-   ```
-2. Initialise a Git repository:
-   ```bash
-   git init
-   ```
-3. Add your files to the repository:
-   ```bash
-   git add .
-   ```
-4. Commit your changes:
-   ```bash
-   git commit -m "Initial commit of WordPress site"
-   ```
-
-### 2. Push to GitHub
-1. Create a new repository on GitHub.
-2. Add the remote repository:
-   ```bash
-   git remote add origin https://github.com/your_username/your_repository.git
-   ```
-3. Push your changes to GitHub:
-   ```bash
-   git push -u origin master
-   ```
-
-## Best Practices for GitHub Projects
-
-1. **Regular Commits**: Commit your changes frequently with clear and concise messages.
-2. **Branches**: Use branches to develop features or fix bugs separately from the main codebase.
-3. **README**: Maintain a comprehensive README file to explain the project and how to set it up.
-4. **Documentation**: Include documentation for your code and any API endpoints.
-5. **License**: Add a license to your repository to clarify usage permissions.
-6. **.gitignore**: Use a `.gitignore` file to exclude unnecessary files and directories from your repository.
-7. **Security**: Avoid committing sensitive information like passwords or API keys.
