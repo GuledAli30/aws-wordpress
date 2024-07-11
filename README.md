@@ -6,8 +6,7 @@
 3. [Setting up the EC2 Instance](#setting-up-the-ec2-instance)
 4. [Installing WordPress](#installing-wordpress)
 5. [Configuring WordPress](#configuring-wordpress)
-6. [Pushing to GitHub](#pushing-to-github)
-7. [Best Practices for GitHub Projects](#best-practices-for-github-projects)
+
 
 ## Introduction
 This guide provides a step-by-step process to host a WordPress website on an AWS EC2 instance and push the project to GitHub. By following these instructions, you will be able to set up a fully functional WordPress site and manage your code versioning through GitHub.
