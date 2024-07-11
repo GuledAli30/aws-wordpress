@@ -1,4 +1,4 @@
-# 🌐 Hosting a WordPress Website on AWS EC2 and Pushing to GitHub
+# 🌐 Hosting a WordPress Website on AWS EC2 Instance
 
 ## Table of Contents
 1. [Introduction](#introduction)
