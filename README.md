@@ -16,8 +16,7 @@ Before starting, ensure you have the following:
 - An AWS account
 - SSH access to the EC2 instance
 - Basic knowledge of command-line interface (CLI)
-- A GitHub account
-- Git installed on your local machine
+
 
 ## Setting up the EC2 Instance
 
