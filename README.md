@@ -5,7 +5,11 @@
 2. [Requirements](#requirements)
 3. [Setting up the EC2 Instance](#setting-up-the-ec2-instance)
 4. [Installing WordPress](#installing-wordpress)
-5. [Configuring WordPress](#configuring-wordpress)
+5. [Installing Apache Web Server](#installing-apache-web-server)
+6. [Installing PHP](#installing-php)
+7. [Installing MySQL (MariaDB)](#installing-mysql)
+8. [Secure MySQL installation](#secure-mysql-installation)
+9. [Configuring WordPress](#configuring-wordpress)
 
 
 ## Introduction
