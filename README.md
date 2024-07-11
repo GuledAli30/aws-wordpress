@@ -9,7 +9,8 @@
 6. [Installing PHP](#installing-php)
 7. [Installing MySQL (MariaDB)](#installing-mysql)
 8. [Secure MySQL installation](#secure-mysql-installation)
-9. [Configuring WordPress](#configuring-wordpress)
+9. [Create a MySQL Database for WordPress](#create-a-mysql-database-for-wordpress)
+10. [Configuring WordPress](#configuring-wordpress)
 
 
 ## Introduction
