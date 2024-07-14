@@ -122,6 +122,8 @@ EXIT;
    define('DB_PASSWORD', 'your_password');
    define('DB_HOST', 'localhost');
    ```
+   <img width="1440" alt="Screenshot 2024-07-10 at 18 47 13" src="https://github.com/user-attachments/assets/394aa8c3-7f5e-4079-b367-045c57947240">
+
 
 ### 9. Finalise the WordPress Installation
 1. Open your browser and navigate to your EC2 instance's public IP.
