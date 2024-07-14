@@ -128,4 +128,4 @@ EXIT;
 ### 9. Finalise the WordPress Installation
 1. Open your browser and navigate to your EC2 instance's public IP.
 2. Follow the WordPress setup wizard to complete the installation.
-<img width="1440" alt="Screenshot 2024-07-10 at 18 47 13" src="https://github.com/user-attachments/assets/4276f1f9-7eab-4dc3-a2b0-99af33e8c1bd">
+
